@@ -25,7 +25,6 @@ public class Main {
         int qos = 2;
         int lineNumber = 100000;
         String row = "";
-        int deleteMeAfterTest = 0;
 
         //Constructors
         BufferedReader csvReader = new BufferedReader(new FileReader(csvPath));
